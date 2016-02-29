@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./p2scriptaquaemanse01ciceuoft_0012.png"; bbox 0 0 2912 4368; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1724 3252 2106 3270">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1724 3252 2106 3270">
+     <span class='ocr_line' id='line_1_1' title="bbox 1724 3252 2106 3270; baseline 0.008 -3"><span class='ocrx_word' id='word_1_1' title='bbox 1724 3254 1727 3267; x_wconf 76' lang='grc' dir='ltr'>ζ</span> <span class='ocrx_word' id='word_1_2' title='bbox 1755 3252 1837 3269; x_wconf 52' lang='grc' dir='ltr'><strong>ΔΪΡΙΞ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1858 3253 1883 3270; x_wconf 78' lang='lat' dir='ltr'>E.</span> <span class='ocrx_word' id='word_1_4' title='bbox 1901 3252 1918 3269; x_wconf 89' lang='lat' dir='ltr'>G</span> <span class='ocrx_word' id='word_1_5' title='bbox 1942 3253 2106 3270; x_wconf 58' lang='lat' dir='ltr'>TEL&#39;Jtt-‘LHL</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 813 949 2912 3714">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 813 949 2912 3714">
+     <span class='ocr_line' id='line_1_2' title="bbox 813 949 2912 3714; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 813 949 2912 3714; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
